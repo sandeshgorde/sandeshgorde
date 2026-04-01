@@ -1,6 +1,6 @@
 👋 hey, i'm sandesh
 
-MCA student @ SGBAU · building things with Java, Spring Boot & React · currently learning by shipping
+MCA @ SGBAU · building things with Java, Spring Boot & React · currently learning.
 
 ---
 
