@@ -1,6 +1,9 @@
-👋 hey, i'm sandesh
 
-MCA @ SGBAU · building things with Java, Spring Boot & React · currently learning.
+## Hi there 👋 , I'm Sandesh Gorde!
+
+-  I'm an avid learner interested in Spring Boot, React, Android Development, Full Stack Web Development and Cloud Computing.
+-  I'm interested in Open source projects.
+-  Languages/Tools I know are Java, Shell programming (bash), Spring Boot, react, Git, linux.
 
 ---
 
@@ -14,21 +17,22 @@ MCA @ SGBAU · building things with Java, Spring Boot & React · currently learn
 
 ---
 
-## projects
+## 💻 Current Work Machine, Daily Driver Smartphone and working environments
 
-### 🎙️ [audio-action-extractor-meetings](https://github.com/sandeshgorde/audio-action-extractor-meetings)
-Full-stack meeting assistant. Upload audio → get transcription + action items.  
-Built with Spring Boot 3, React, Groq Whisper API, and Docker. Deployed on Render + Vercel.
+**Dell Latitude 3400**
 
-`Java` `Spring Boot 3` `React` `Docker` `Groq API`
+- Intel Core i5 8365U
+- 8GB DDR4 2666Mhz RAM
+- 512GB NVMe SSD
 
----
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=white) ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu_24.04_WSL-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-## currently
+**Realme P3 5G**
 
-- Learning java devlopment 
-- Trying to ship more side projects
-- Open to collaborations
+- Qualcomm Snapdragon 6 Gen 4
+- 6GB RAM/128GB ROM
+
+![Android 16](https://img.shields.io/badge/Android_16-3DDC84?style=flat&logo=android&logoColor=white)
 
 ---
 
