@@ -17,7 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-
 ---
 
 ## 💻 Current Work Machine, Daily Driver Smartphone and working environments
@@ -38,6 +37,8 @@
 ![Android 16](https://img.shields.io/badge/Android_16-3DDC84?style=flat&logo=android&logoColor=white)
 
 ---
+
+## 🌐 Find Me Online
 
    [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
    [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@yourusername)
