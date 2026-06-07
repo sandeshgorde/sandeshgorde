@@ -39,8 +39,8 @@
 
 ---
 
-   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sandeshRgorde) 
-   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
+   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
+   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@yourusername)
    [![Monkeytype](https://img.shields.io/badge/⌨️_Monkeytype-View_Profile-e2b714?style=flat)](https://monkeytype.com/profile/sandeshgorde)  
 ---
 
