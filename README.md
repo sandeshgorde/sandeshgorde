@@ -39,7 +39,11 @@
 
 ---
 
-📬 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sandeshRgorde) [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
+   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sandeshRgorde) 
+   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
+   [![Monkeytype](https://monkeytype.com/profile/sandeshgorde) 
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=sandeshgorde)
 
