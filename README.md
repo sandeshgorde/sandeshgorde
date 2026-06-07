@@ -41,7 +41,7 @@
 
    [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sandeshRgorde) 
    [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
-   [![Monkeytype](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/monkeytype.png)](https://monkeytype.com/profile/sandeshgorde) 
+   [![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-e2b714?style=for-the-badge&logo=keyboard&logoColor=black)](https://monkeytype.com/profile/sandeshgorde)
 
 ---
 
