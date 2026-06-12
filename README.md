@@ -40,8 +40,8 @@
 
 ## 🌐 Find Me Online
 
-   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
-   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@yourusername)
+   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sandeshRgorde)
+   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
    [![Monkeytype](https://img.shields.io/badge/Monkeytype-e2b714?style=for-the-badge&logo=keyboard&logoColor=black)](https://monkeytype.com/profile/sandeshgorde)
 ---
 
