@@ -3,7 +3,7 @@
 
 -  I'm an avid learner interested in Spring Boot, React, Android Development, Full Stack Web Development and Cloud Computing.
 -  I'm interested in Open source projects and continously hunt down issue's in tools i use personally !
--  Languages/Tools I know are Java, Shell programming (bash), Spring Boot, docker, linux, react, Git.
+-  Languages/Tools I know are Java, Shell programming (bash), Spring Boot, docker, linux, react, Git, neovim, lua.
 
 ---
 
@@ -16,6 +16,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Hackintosh](https://img.shields.io/badge/Hackintosh-000000?style=flat&logo=apple&logoColor=white)
+
 
 ---
 
