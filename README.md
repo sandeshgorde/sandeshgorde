@@ -2,8 +2,8 @@
 ## Hi there 👋 , I'm Sandesh Gorde!
 
 -  I'm an avid learner interested in Spring Boot, React, Android Development, Full Stack Web Development and Cloud Computing.
--  I'm interested in Open source projects.
--  Languages/Tools I know are Java, Shell programming (bash), Spring Boot, react, Git, linux.
+-  I'm interested in Open source projects and continously hunt down issue's in tools i use personally !
+-  Languages/Tools I know are Java, Shell programming (bash), Spring Boot, docker, linux, react, Git.
 
 ---
 
