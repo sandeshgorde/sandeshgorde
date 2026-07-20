@@ -28,7 +28,7 @@
 **Dell Latitude 3400**
 
 - Intel Core i5 8365U
-- 8GB DDR4 2666Mhz RAM
+- 8GB DDR4 2400Mhz RAM
 - 256 + 128 GB NVMe SSD
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=flat&logo=windows&logoColor=white) ![Pop!_OS](https://img.shields.io/badge/Pop!_OS_22.04-48B9C7?style=flat&logo=popos&logoColor=white)
