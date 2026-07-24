@@ -1,9 +1,9 @@
 
 ## Hi there 👋 , I'm Sandesh Gorde!
 
--  I'm an avid learner interested in Spring Boot, React, Android Development, Full Stack Web Development and Cloud Computing.
+-  I'm an avid learner interested in Spring Boot, Android Development, Full Stack Web Development and Cloud Computing.
 -  I'm interested in Open source projects and continously hunt down issue's in tools i use personally !
--  Languages/Tools I know are Java, astro, Vue, Shell programming (bash), Spring Boot, docker, linux, react, Git, neovim, lua.
+-  I code for fun and also interested in photography do checkout my resplash account !
 
 ---
 
