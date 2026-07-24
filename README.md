@@ -11,7 +11,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -43,10 +44,7 @@
 ---
 
 ## 🌐 Find Me Online
-
-   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sandeshRgorde)
-   [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@sandeshgorde)
-   [![Monkeytype](https://img.shields.io/badge/Monkeytype-e2b714?style=for-the-badge&logo=keyboard&logoColor=black)](https://monkeytype.com/profile/sandeshgorde)
+[X](https://x.com/sandeshRgorde) · [Unsplash](https://unsplash.com/@sandeshgorde) · [Monkeytype](https://monkeytype.com/profile/sandeshgorde)
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=sandeshgorde)
