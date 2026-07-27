@@ -19,7 +19,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Hackintosh](https://img.shields.io/badge/Hackintosh-000000?style=flat&logo=apple&logoColor=white)
 
 
 ---
